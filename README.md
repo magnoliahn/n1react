@@ -13,7 +13,7 @@ Antes de começar, você precisa ter instalado:
 1. **Clone este repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/futuratech-landing.git
+git clone https://github.com/magnoliahn/n1react.git
 ```
 
 Ou baixe o projeto em ZIP e extraia.
@@ -21,7 +21,7 @@ Ou baixe o projeto em ZIP e extraia.
 2. **Entre na pasta do projeto:**
 
 ```bash
-cd futuratech-landing
+cd n1react
 ```
 
 3. **Instale as dependências:**
