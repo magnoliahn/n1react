@@ -65,6 +65,3 @@ git push
 ```
 
 ---
-
-
-Se quiser, posso gerar uma versão com seu nome ou link do GitHub personalizado. Quer?
